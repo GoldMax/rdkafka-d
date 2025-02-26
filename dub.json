@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"gold"
+	],
+	"copyright": "Copyright © 2024, gold",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "rdkafka-d"
+}
